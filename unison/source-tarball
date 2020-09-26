@@ -1,0 +1,6 @@
+#/bin/sh
+
+# Picks up 'unison version 2.51.2 (ocaml 4.07.0)'
+# Installable using `brew install -f <path-to>/unison-2.51.2.bottle.tar.gz`
+curl -L 'https://bintray.com/homebrew/bottles/download_file?file_path=unison-2.51.2.mojave.bottle.tar.gz' \
+  -o unison-2.51.2.bottle.tar.gz
