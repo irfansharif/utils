@@ -1,0 +1,6 @@
+go1.17.6.darwin-amd64.tar.gz filter=lfs diff=lfs merge=lfs -text
+go1.17.6.darwin-arm64.tar.gz filter=lfs diff=lfs merge=lfs -text
+go1.17.6.linux-amd64.tar.gz filter=lfs diff=lfs merge=lfs -text
+go1.17.6.freebsd-amd64.tar.gz filter=lfs diff=lfs merge=lfs -text
+go1.17.6.linux-arm64.tar.gz filter=lfs diff=lfs merge=lfs -text
+go1.17.11.linux-amd64.tar.gz filter=lfs diff=lfs merge=lfs -text
